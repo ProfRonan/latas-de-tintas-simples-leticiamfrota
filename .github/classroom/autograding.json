@@ -15,7 +15,7 @@
       "setup": "",
       "run": "python main.py",
       "input": "1",
-      "output": "Serão necessárias 0 latas totalizando R$ 0",
+      "output": "Serão necessárias 1 latas totalizando R$ 80",
       "comparison": "included",
       "timeout": 1,
       "points": 15
